@@ -29,4 +29,3 @@ When you want to run Airflow locally, you might want to use an extended image, c
 
 Create a `Dockerfile` pointing to Airflow version you've just downloaded, such as `apache/airflow:2.2.3`, as the base image,
 
-Here's how the final versions of your Dockerfile and docker-compose.yml should look.
